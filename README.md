@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brian A. Lemos Florez
-- 👀 I’m interested in tech at-large.
+- 👀 I’m interested in Tech At-Large.
 - 🌱 I’m currently learning better automation practices
 - 📫 How to reach me lemosbrian0725@gmail.com 
 
